@@ -21,8 +21,10 @@ umrah, umrah visa, umrah 2026, umrah from pakistan, nusuk, umrah guide urdu, umr
 - Line 2: Umrah ki tayyari, aasaan Urdu mein
 - Line 3: Naye video: Monday aur Thursday
 
-## Profile picture
-Simple logo: dark teal (#0E3F3D) background, gold (#FFD23F) "UA" letters. Canva mein 5 minute ka kaam.
+## Profile picture and banner (tayyar hain)
+- Profile picture: `channel/brand/profile-800.png`
+- Banner: `channel/brand/banner-2560x1440.png` (text beech ke safe hisse mein hai, har device par nazar aayega)
+- Colours: dark teal #0E3F3D, gold #FFD23F, cream #FBF3DF
 
 ## Playlists
 1. Umrah Visa aur Naye Qawaneen

@@ -23,7 +23,7 @@ description: |
   Daily Times, 4 Aug 2026: https://dailytimes.com.pk/?p=1533318
 tags: [umrah visa 2026, umrah new rules, nusuk, umrah from pakistan, umrah visa pakistan, umrah 1448, umrah booking, umrah guide urdu, saudi visa, umrah asaan]
 thumbnail_text: "UMRAH VISA NEW RULES"
-publish_at: 2026-11-28T19:00:00+05:00
+publish_at: 2026-11-26T19:00:00+05:00
 synthetic_media: false
 assets: common
 approved: false
