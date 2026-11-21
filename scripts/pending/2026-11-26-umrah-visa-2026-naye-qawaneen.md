@@ -28,7 +28,7 @@ synthetic_media: false
 assets: common
 approved: false
 ---
-# Hook
+# Hook | عمرہ ویزا: 5 نئے قوانین
 [B-roll: Masjid al-Haram ki door se tasveer, phir passport aur phone par Nusuk app]
 
 اگر آپ اس سال عمرہ کا ارادہ رکھتے ہیں، تو ایک بات سب سے پہلے جان لیں۔ پچھلے سال والا طریقہ اب نہیں چلے گا۔ عمرہ ویزا کے قوانین بدل چکے ہیں، اور جو لوگ یہ تبدیلیاں نہیں جانتے، ان کے پیسے اور وقت دونوں ضائع ہو سکتے ہیں۔
@@ -37,7 +37,7 @@ approved: false
 
 پاکستان اس وقت دنیا میں سب سے زیادہ عمرہ زائرین بھیجنے والا ملک ہے۔ نئے سیزن کے پہلے چند ہفتوں میں ہی تقریباً دو لاکھ پاکستانی عمرہ کے لیے سعودی عرب پہنچے۔ اس لیے یہ معلومات آپ کے لیے بہت اہم ہے۔
 
-# Qanoon 1
+# Qanoon 1 | قانون 1: صرف 30 دن
 [B-roll: calendar, 30 din ka nishan]
 
 پہلا قانون: ویزا ملنے کے بعد آپ کے پاس سعودی عرب پہنچنے کے لیے صرف تیس دن ہیں۔
@@ -48,7 +48,7 @@ approved: false
 
 اس کا مطلب یہ ہے کہ ویزا تب لگوائیں جب آپ کی فلائٹ کی تاریخ تقریباً طے ہو چکی ہو۔
 
-# Qanoon 2
+# Qanoon 2 | قانون 2: پہلے بکنگ، پھر ویزا
 [B-roll: hotel booking screen, bus/train between Makkah aur Madinah]
 
 دوسرا قانون: پہلے بکنگ، پھر ویزا۔
@@ -59,7 +59,7 @@ approved: false
 
 پاکستانی پاسپورٹ والوں کے لیے عملی طریقہ یہ ہے کہ یہ سب کچھ کسی لائسنس یافتہ عمرہ آپریٹر کے ذریعے ہو۔
 
-# Qanoon 3
+# Qanoon 3 | قانون 3: ہر زائر کے لیے نسک پرمٹ
 [B-roll: phone par Nusuk app ka permit screen]
 
 تیسرا قانون: ہر زائر کے لیے نسک پر رجسٹریشن اور عمرہ پرمٹ ضروری ہے۔
@@ -68,7 +68,7 @@ approved: false
 
 لیکن یاد رکھیں، حج کے لیے الگ حج ویزا ہی چاہیے۔
 
-# Qanoon 4
+# Qanoon 4 | قانون 4: سیزن کی آخری تاریخیں
 [B-roll: calendar, March aur April 2027 ke nishan]
 
 چوتھا قانون: اس سیزن کی آخری تاریخیں یاد رکھیں۔
@@ -77,7 +77,7 @@ approved: false
 
 اگر آپ رمضان میں عمرہ کا سوچ رہے ہیں، تو ابھی سے منصوبہ بندی شروع کر دیں۔
 
-# Qanoon 5
+# Qanoon 5 | قانون 5: صرف منظور شدہ کمپنی
 [B-roll: office, documents, license certificate]
 
 پانچواں قانون پاکستان کی طرف سے ہے۔ وزارت مذہبی امور نے نئے قواعد جاری کیے ہیں، جن کے مطابق اب صرف وزارت سے منظور شدہ کمپنیاں ہی عمرہ کی خدمات دے سکتی ہیں۔
@@ -86,7 +86,7 @@ approved: false
 
 ایک اور تبدیلی بھی آ رہی ہے۔ پاکستان، انڈیا، بنگلہ دیش اور مصر کے زائرین کے لیے کھانے کے واؤچر لازمی کر دیے گئے ہیں۔ اس پر تفصیلی ویڈیو جلد آئے گی۔
 
-# Ghaltiyan
+# Ghaltiyan | 3 عام غلطیاں
 [B-roll: pareshan musafir airport par]
 
 اب تین عام غلطیاں۔
@@ -97,10 +97,10 @@ approved: false
 
 تیسری غلطی: صرف کم قیمت دیکھ کر کسی بھی ایجنٹ کو پیسے دے دینا۔ پہلے یہ دیکھیں کہ کمپنی منظور شدہ ہے یا نہیں۔
 
-# Mera mashwara
+# Mera mashwara | میرا مشورہ
 [MY TAKE: Yahan apne kaam ka ek asal tajurba likhein, maslan kisi customer ka visa 30 din ki wajah se kaise khatam hua, ya booking pehle karne se kya faida hua. 3 se 4 jumle, apni zubaan mein, Urdu script mein.]
 
-# Recap
+# Recap | خلاصہ
 [B-roll: Masjid an-Nabawi ki tasveer]
 
 خلاصہ یہ ہے: تیس دن میں پہنچنا ہے، پہلے ہوٹل اور ٹرانسپورٹ کی بکنگ، ہر زائر کے لیے نسک پرمٹ، سات اپریل تک واپسی، اور صرف منظور شدہ کمپنی۔

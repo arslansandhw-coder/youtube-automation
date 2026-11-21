@@ -25,8 +25,13 @@ synthetic_media: false                   # true only if visuals or voice look li
 assets: common                           # folder inside assets/
 approved: false                          # ONLY the human sets this to true
 ---
+# Hook | ایک لائن کی اردو سرخی
 Narration text here. Lines starting with # and anything in [square brackets] are not spoken.
+
+# Qanoon 1 | قانون 1: صرف 30 دن
+Next section...
 ```
+Each `# Heading | Urdu card title` starts a new section. The part after `|` is shown on screen as a big title card when that section starts, then as a small label at the top. Keep card titles under 35 characters. Every long script needs card titles.
 
 ## Rules for Claude
 1. Never set `approved: true`. The channel owner reviews and approves every script.

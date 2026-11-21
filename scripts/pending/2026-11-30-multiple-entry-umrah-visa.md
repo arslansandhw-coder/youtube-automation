@@ -23,14 +23,14 @@ synthetic_media: false
 assets: common
 approved: false
 ---
-# Hook
+# Hook | ایک سال کا عمرہ ویزا
 [B-roll: calendar ke 12 mahine, phir Kaaba ki door se tasveer]
 
 کیا آپ سال میں ایک سے زیادہ بار عمرہ کرنا چاہتے ہیں؟ تو آپ کے لیے ایک نئی خبر ہے۔ سعودی عرب نے ایک سال والا ملٹی پل انٹری عمرہ ویزا شروع کر دیا ہے۔
 
 لیکن یہ ویزا ہر کسی کے لیے فائدہ مند نہیں۔ آج میں آپ کو بتاؤں گا کہ یہ ویزا کیسے کام کرتا ہے، ہر سفر سے پہلے کیا ضروری ہے، اور کن لوگوں کو یہ لینا چاہیے اور کن کو نہیں۔
 
-# Kya hai
+# Kya hai | 365 دن، کل 90 دن قیام
 [B-roll: passport par visa, calendar]
 
 سعودی وزارت حج و عمرہ نے یہ ویزا جولائی دو ہزار چھبیس میں شروع کیا۔
@@ -39,7 +39,7 @@ approved: false
 
 مثال کے طور پر، اگر آپ پہلی بار تیس دن رہے، تو باقی سال میں آپ کے پاس ساٹھ دن بچیں گے۔
 
-# Har safar se pehle
+# Har safar se pehle | ہر سفر سے پہلے 3 کام
 [B-roll: phone par Nusuk app, hotel booking]
 
 اب سب سے ضروری بات۔ یہ ویزا ایک بار لے لینے کا مطلب یہ نہیں کہ جب چاہیں اٹھ کر چلے جائیں۔ ہر سفر سے پہلے تین کام ضروری ہیں۔
@@ -52,14 +52,14 @@ approved: false
 
 ہر بار سعودی عرب سے واپس آنے پر یہ ویزا بند ہو جاتا ہے، اور اگلے سفر کی شرطیں پوری ہونے پر دوبارہ چالو ہوتا ہے۔
 
-# Hajj season
+# Hajj season | حج کے دنوں میں پابندی
 [B-roll: Mina ya Hajj ki aam tasveer, logon ke chehre wazeh na hon]
 
 ایک پابندی بھی یاد رکھیں۔ حج کے دنوں میں یہ ویزا استعمال نہیں ہو سکتا۔ یکم ذوالقعدہ سے تیرہ ذوالحجہ تک یہ ویزا چالو نہیں ہوگا۔
 
 یعنی اس ویزا پر حج نہیں ہو سکتا۔ حج کے لیے الگ حج ویزا ہی چاہیے۔
 
-# Kis ke liye
+# Kis ke liye | کس کے لیے فائدہ؟
 [B-roll: family, buzurg waldain, airport]
 
 اب سوال یہ ہے کہ یہ ویزا کس کے لیے فائدہ مند ہے؟
@@ -70,10 +70,10 @@ approved: false
 
 ابھی تک جو سرکاری خبر آئی ہے، اس میں اس ویزا کی فیس اور درخواست کا مکمل طریقہ نہیں بتایا گیا۔ اس لیے پیسے دینے سے پہلے اپنے لائسنس یافتہ آپریٹر سے فیس اور طریقہ ضرور تحریری طور پر لیں۔
 
-# Mera mashwara
+# Mera mashwara | میرا مشورہ
 [MY TAKE: Apne kaam ke tajurbe se batayein: kya aap ke customers is visa ke baare mein pooch rahe hain? Kis qisam ke musafir ke liye aap yeh visa recommend karenge? 3 se 4 jumle, Urdu script mein.]
 
-# Recap
+# Recap | خلاصہ
 [B-roll: Masjid an-Nabawi]
 
 خلاصہ: ایک سال کا ویزا، کل نوے دن کا قیام، ہر سفر سے پہلے نیا نسک پیکیج اور پرمٹ، اور حج کے دنوں میں استعمال نہیں ہو سکتا۔

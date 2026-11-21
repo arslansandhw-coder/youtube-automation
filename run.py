@@ -39,9 +39,9 @@ def process(path: Path, cfg: dict, do_upload: bool, preview: bool = False) -> bo
     elif not script.approved:
         print("  skipped: set  approved: true  in the front matter after you have reviewed the script")
         return False
-    voice, captions = make_voice(script, cfg)
+    voice, captions, timings = make_voice(script, cfg)
     thumb = make_thumbnail(script, cfg)
-    video = assemble(script, voice, captions, cfg)
+    video = assemble(script, voice, captions, cfg, timings)
     result = {"script": path.name, "video": str(video), "thumbnail": str(thumb),
               "built_at": datetime.now().isoformat(timespec="seconds")}
     if do_upload:

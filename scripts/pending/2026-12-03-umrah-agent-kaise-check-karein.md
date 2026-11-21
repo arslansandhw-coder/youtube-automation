@@ -28,14 +28,14 @@ synthetic_media: false
 assets: common
 approved: false
 ---
-# Hook
+# Hook | ایجنٹ اصلی ہے یا فراڈ؟
 [B-roll: haath mein paison ka lifafa, phir phone par bank app]
 
 ہر سال بہت سے پاکستانی عمرہ کے نام پر اپنی محنت کی کمائی کھو دیتے ہیں۔ پیکیج سستا لگتا ہے، ایجنٹ میٹھی باتیں کرتا ہے، اور آخری وقت پر پتہ چلتا ہے کہ نہ ویزا ہے نہ ہوٹل۔
 
 اچھی خبر یہ ہے کہ اب پاکستان میں نئے قوانین آ چکے ہیں۔ اگر آپ پانچ منٹ لگا کر صرف چار کام کر لیں، تو آپ بڑی حد تک محفوظ رہ سکتے ہیں۔
 
-# Naya qanoon
+# Naya qanoon | نیا قانون کیا کہتا ہے
 [B-roll: sarkari daftar, documents]
 
 جولائی دو ہزار چھبیس میں وفاقی وزارت مذہبی امور نے عمرہ کے نئے قواعد جاری کیے۔ اب عمرہ کے تمام انتظامات وزارت کی نگرانی میں ہیں۔
@@ -44,7 +44,7 @@ approved: false
 
 یعنی اگر آپ کسی غیر رجسٹرڈ ایجنٹ کو پیسے دیتے ہیں، تو مسئلہ ہونے پر آپ کی شکایت سننے والا بھی کوئی نہیں ہوگا۔
 
-# Qadam 1
+# Qadam 1 | قدم 1: وزارت کی فہرست
 [B-roll: phone par mora.gov.pk website, company list]
 
 پہلا قدم: وزارت کی ویب سائٹ پر کمپنی کا نام چیک کریں۔
@@ -53,21 +53,21 @@ approved: false
 
 اس لیے ہمیشہ موجودہ سال کی فہرست دیکھیں۔ ایجنٹ سے اس کی کمپنی کا پورا رجسٹرڈ نام پوچھیں، اور فہرست میں وہی نام تلاش کریں۔ صرف ملتا جلتا نام کافی نہیں۔
 
-# Qadam 2
+# Qadam 2 | قدم 2: صرف بینک سے ادائیگی
 [B-roll: bank branch, deposit slip]
 
 دوسرا قدم: پیسے صرف بینک کے ذریعے، اور صرف کمپنی کے اکاؤنٹ میں۔
 
 وزارت کا مشورہ ہے کہ ادائیگی بینک کے ذریعے کمپنی کے سرکاری اکاؤنٹ میں کی جائے۔ کسی شخص کے ذاتی اکاؤنٹ، یا نقد رقم ہاتھ میں دینے سے بچیں۔
 
-# Qadam 3
+# Qadam 3 | قدم 3: معاہدہ اور رسید
 [B-roll: kaghaz par dastakhat, raseed]
 
 تیسرا قدم: لکھا ہوا معاہدہ اور رسید ضرور لیں۔
 
 وزارت نے زائرین کو کہا ہے کہ ادائیگی کی رسید، معاہدہ اور باقی کاغذات سنبھال کر رکھیں۔ اگر کبھی شکایت کرنی پڑے، تو یہی کاغذات آپ کا ثبوت ہوں گے۔
 
-# Qadam 4
+# Qadam 4 | قدم 4: پہلے بکنگ کی تفصیل
 [B-roll: hotel ki tasveer, Nusuk app]
 
 چوتھا قدم: پیسے دینے سے پہلے بکنگ کی تفصیل مانگیں۔
@@ -76,7 +76,7 @@ approved: false
 
 جو ایجنٹ یہ تفصیل دینے سے کترائے، اس سے ہوشیار رہیں۔
 
-# Khatre ki nishaniyan
+# Khatre ki nishaniyan | خطرے کی 4 نشانیاں
 [B-roll: pareshan chehra, phone par message]
 
 اب چار خطرے کی نشانیاں۔
@@ -91,10 +91,10 @@ approved: false
 
 ان میں سے ایک بھی نشانی نظر آئے، تو رک جائیں اور پہلے تسلی کر لیں۔
 
-# Mera mashwara
+# Mera mashwara | میرا مشورہ
 [MY TAKE: Apne kaam ke tajurbe se ek asal (bina naam ke) waqia batayein jahan kisi ne ghalat agent se nuqsan uthaya, ya aap ke paas aane wale log sab se zyada kis cheez se darte hain. Aur yeh bhi bata dein ke aap khud kaise apne customers ko yeh tafseel dete hain. 3 se 4 jumle, Urdu script mein.]
 
-# Recap
+# Recap | خلاصہ
 [B-roll: Masjid al-Haram]
 
 خلاصہ: وزارت کی فہرست میں کمپنی کا نام، بینک کے ذریعے کمپنی کے اکاؤنٹ میں ادائیگی، لکھا ہوا معاہدہ اور رسید، اور پیسے سے پہلے ہوٹل اور ٹرانسپورٹ کی تفصیل۔

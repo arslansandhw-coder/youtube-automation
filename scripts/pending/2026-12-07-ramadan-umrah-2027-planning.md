@@ -24,21 +24,21 @@ synthetic_media: false
 assets: common
 approved: false
 ---
-# Hook
+# Hook | رمضان عمرہ 2027
 [B-roll: raat ko Masjid al-Haram, chand]
 
 رمضان میں عمرہ ہر مسلمان کی خواہش ہوتی ہے۔ لیکن دو ہزار ستائیس کے رمضان کے لیے ایک خاص بات جاننا بہت ضروری ہے۔ اس سال عمرہ ویزا کی آخری تاریخ اور عید کا دن تقریباً ایک ہی ہے۔
 
 اگر آپ نے حساب ٹھیک نہیں لگایا، تو یا تو ویزا جلدی ختم ہو جائے گا، یا وقت پر ملے گا ہی نہیں۔ آئیے پورا حساب آسان طریقے سے سمجھتے ہیں۔
 
-# Ramadan kab hai
+# Ramadan kab hai | رمضان کب ہے؟
 [B-roll: calendar, February aur March 2027]
 
 فلکیاتی حساب کے مطابق رمضان دو ہزار ستائیس آٹھ فروری کو شروع ہونے کی توقع ہے، اور عید الفطر نو یا دس مارچ کو ہو سکتی ہے۔
 
 یاد رکھیں، یہ صرف اندازہ ہے۔ اصل تاریخ چاند دیکھ کر ہی طے ہوگی، اس لیے ایک دو دن کی گنجائش رکھیں۔
 
-# Aakhri tareekhein
+# Aakhri tareekhein | سیزن کی آخری تاریخیں
 [B-roll: calendar par teen tareekhein laal nishan ke saath]
 
 اب اس عمرہ سیزن کی تین آخری تاریخیں۔
@@ -49,14 +49,14 @@ approved: false
 
 تین: سب زائرین کو سات اپریل تک سعودی عرب چھوڑنا ہوگا۔
 
-# 30 din ka qanoon
+# 30 din ka qanoon | 30 دن کا قانون
 [B-roll: passport, visa, ghari]
 
 اب اس میں تیس دن والا قانون شامل کریں۔ ویزا جاری ہونے کے بعد آپ کو تیس دن کے اندر سعودی عرب پہنچنا ہے، ورنہ ویزا خود ختم ہو جاتا ہے۔ ہاں، پہنچنے کے بعد آپ نوے دن تک رہ سکتے ہیں۔
 
 اس کا مطلب یہ ہے کہ رمضان کے عمرہ کے لیے دسمبر میں ویزا لگوا لینا غلطی ہو سکتی ہے۔
 
-# Visa calendar
+# Visa calendar | ویزا کب لگوائیں؟
 [B-roll: diary mein likhai, plan]
 
 تو ویزا کب لگوائیں؟ آسان اصول یہ ہے: اپنی روانگی کی تاریخ سے الٹا تیس دن گنیں۔ ویزا اس کے اندر جاری ہونا چاہیے۔
@@ -67,7 +67,7 @@ approved: false
 
 لیکن ہوٹل اور ٹرانسپورٹ کی بکنگ ابھی سے دیکھنا شروع کر دیں، کیونکہ اب ویزا سے پہلے یہ بکنگ ضروری ہے، اور رمضان میں ہوٹل جلدی بھر جاتے ہیں۔
 
-# Ghaltiyan
+# Ghaltiyan | 3 عام غلطیاں
 [B-roll: airport par pareshan family]
 
 تین عام غلطیاں۔
@@ -78,10 +78,10 @@ approved: false
 
 تیسری: واپسی کی ٹکٹ سات اپریل کے بعد کی بک کرنا۔
 
-# Mera mashwara
+# Mera mashwara | میرا مشورہ
 [MY TAKE: Ramadan ke rush ke baare mein apna tajurba batayein: hotel kitni jaldi bhar jate hain, aur aap apne customers ko kab booking ka mashwara dete hain. 3 se 4 jumle, Urdu script mein.]
 
-# Recap
+# Recap | خلاصہ
 [B-roll: Masjid an-Nabawi, raat]
 
 خلاصہ: رمضان آٹھ فروری کے قریب متوقع، ویزا کی آخری تاریخ نو مارچ، داخلہ تئیس مارچ تک، واپسی سات اپریل تک، اور ویزا اپنی روانگی سے تیس دن کے اندر۔

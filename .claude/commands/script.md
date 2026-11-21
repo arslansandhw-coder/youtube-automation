@@ -8,6 +8,7 @@ Topic: $ARGUMENTS
 2. Research the topic on the web. Note a source for every fact and number.
 3. Write the script in the format described in `CLAUDE.md`:
    - hook in the first 2 sentences, then the promise of the video
+   - every section heading as `# Label | short Urdu card title` (under 35 characters)
    - spoken words only in the body; visual notes as [B-roll: ...]
    - one `[MY TAKE: ...]` placeholder where the owner adds their own view
    - "Sources" at the end, every line inside [square brackets]

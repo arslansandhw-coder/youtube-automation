@@ -26,6 +26,13 @@ def slugify(text: str) -> str:
 
 
 @dataclass
+class Section:
+    label: str              # heading text (Roman), e.g. "Qanoon 1"
+    card: str | None        # on-screen title, from "# Label | card title"
+    text: str               # words to speak in this section
+
+
+@dataclass
 class Script:
     path: Path
     title: str
@@ -40,6 +47,7 @@ class Script:
     assets: str | None = None
     category_id: str = "27"
     format: str = "long"            # "long" (16:9) or "short" (9:16 YouTube Short)
+    sections: list[Section] = field(default_factory=list)
 
     @property
     def is_short(self) -> bool:
@@ -82,6 +90,29 @@ def clean_narration(body: str) -> str:
     return text.strip()
 
 
+HEADING = re.compile(r"^\s*#+\s*(.*?)\s*$")
+
+
+def split_sections(body: str) -> list[Section]:
+    """Split the body at markdown headings. "# Qanoon 1 | قانون 1: صرف 30 دن" gives a card title."""
+    body = re.sub(r"<!--.*?-->", "", body, flags=re.S)
+    body = re.sub(r"\[[^\]]*\]", "", body, flags=re.S)
+    parts: list[tuple[str, str | None, list[str]]] = [("", None, [])]
+    for line in body.splitlines():
+        m = HEADING.match(line)
+        if m:
+            label, _, card = m.group(1).partition("|")
+            parts.append((label.strip(), card.strip() or None, []))
+        else:
+            parts[-1][2].append(line)
+    out = []
+    for label, card, lines in parts:
+        text = clean_narration("\n".join(lines))
+        if text or card:
+            out.append(Section(label=label, card=card, text=text))
+    return out
+
+
 def parse_script(path: Path) -> Script:
     raw = path.read_text(encoding="utf-8")
     m = FRONT.match(raw)
@@ -115,6 +146,7 @@ def parse_script(path: Path) -> Script:
         assets=meta.get("assets"),
         category_id=str(meta.get("category_id", "27")),
         format=fmt,
+        sections=split_sections(body),
     )
 
 

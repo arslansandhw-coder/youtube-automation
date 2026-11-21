@@ -2,6 +2,8 @@
 
 channel:
   name: "Umrah Asaan"
+  handle: "@UmrahAsaann"
+  logo: channel/brand/profile-800.png   # small logo in the video corner
   bible: channel/bible.md        # who the videos are for, tone, rules
 
 voice:
@@ -17,7 +19,8 @@ video:
   seconds_per_visual: 6          # how long each image or clip stays on screen
   captions: true                 # burn subtitles into the video
   music_volume: 0.08             # background music level (files in assets/music/)
-  background_color: "0x0e3f3d"   # used when no images are found
+  darken_images: 0.35            # darken your photos so text stays readable (0 = off)
+  font: Arial                    # font for captions and title cards (must support Urdu)
 
 shorts:
   seconds_per_visual: 3          # Shorts change picture faster
