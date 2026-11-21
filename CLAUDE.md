@@ -14,6 +14,7 @@ This repo turns an approved script into a voiced, captioned video and uploads it
 ## Script file format
 ```
 ---
+format: long                             # or: short (vertical YouTube Short, 70-110 words, under 60 seconds)
 title: "Video title, under 100 characters"
 description: |
   Description with chapters (00:00 Intro ...) and sources.

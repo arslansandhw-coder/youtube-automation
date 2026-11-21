@@ -39,6 +39,11 @@ class Script:
     thumbnail_text: str | None = None
     assets: str | None = None
     category_id: str = "27"
+    format: str = "long"            # "long" (16:9) or "short" (9:16 YouTube Short)
+
+    @property
+    def is_short(self) -> bool:
+        return self.format == "short"
 
     @property
     def slug(self) -> str:
@@ -88,8 +93,11 @@ def parse_script(path: Path) -> Script:
         if not meta.get(key):
             raise ValueError(f"{path.name}: front matter needs '{key}'")
     narration = clean_narration(body)
-    if len(narration.split()) < 30:
+    if len(narration.split()) < (15 if str(meta.get("format", "long")).strip().lower() == "short" else 30):
         raise ValueError(f"{path.name}: narration is too short ({len(narration.split())} words)")
+    fmt = str(meta.get("format", "long")).strip().lower()
+    if fmt not in ("long", "short"):
+        raise ValueError(f"{path.name}: format must be 'long' or 'short', not '{fmt}'")
     publish_at = meta.get("publish_at")
     if isinstance(publish_at, datetime):
         publish_at = publish_at.isoformat()
@@ -106,6 +114,7 @@ def parse_script(path: Path) -> Script:
         thumbnail_text=meta.get("thumbnail_text"),
         assets=meta.get("assets"),
         category_id=str(meta.get("category_id", "27")),
+        format=fmt,
     )
 
 

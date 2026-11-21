@@ -13,5 +13,6 @@ Topic: $ARGUMENTS
    - "Sources" at the end, every line inside [square brackets]
    - description with chapters, 8 to 15 tags, thumbnail_text of 4 words or fewer
    - `approved: false`
+   - If $ARGUMENTS asks for a Short: `format: short`, 70 to 110 spoken words (under 60 seconds), one single point, hook in the first sentence, end by pointing to the related long video
 4. Save it as `scripts/pending/YYYY-MM-DD-short-topic.md` (date = planned publish date).
 5. Tell me the word count, estimated length in minutes, and what I need to review or add before I approve it.

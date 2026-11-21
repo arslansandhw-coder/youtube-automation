@@ -47,10 +47,21 @@ def _segment(src: Path, seconds: float, dst: Path, w: int, h: int, fps: int) -> 
 def assemble(script: Script, voice: Path, captions: Path | None, cfg: dict) -> Path:
     need("ffmpeg")
     vcfg = cfg.get("video", {})
-    w, h, fps = int(vcfg.get("width", 1920)), int(vcfg.get("height", 1080)), int(vcfg.get("fps", 30))
-    seg_len = float(vcfg.get("seconds_per_visual", 6))
+    fps = int(vcfg.get("fps", 30))
     out = script.out_dir
     duration = media_duration(voice) + 0.6
+    if script.is_short:
+        scfg = cfg.get("shorts", {})
+        w, h = 1080, 1920
+        seg_len = float(scfg.get("seconds_per_visual", 3))
+        limit = float(scfg.get("max_seconds", 60))
+        if duration > 180:
+            raise ValueError(f"voice is {duration:.0f}s; YouTube Shorts can be at most 3 minutes. Shorten the script.")
+        if duration > limit:
+            print(f"  WARNING: short is {duration:.0f}s (target {limit:.0f}s). Shorter Shorts usually do better.")
+    else:
+        w, h = int(vcfg.get("width", 1920)), int(vcfg.get("height", 1080))
+        seg_len = float(vcfg.get("seconds_per_visual", 6))
 
     folder = ASSETS / (script.assets or "common")
     media = _media(folder) or _media(ASSETS / "common")
@@ -86,7 +97,12 @@ def assemble(script: Script, voice: Path, captions: Path | None, cfg: dict) -> P
     tracks = sorted(p for p in music_dir.iterdir() if p.suffix.lower() in AUD) if music_dir.is_dir() else []
     vf = []
     if captions and vcfg.get("captions", True):
-        style = vcfg.get("caption_style",
+        if script.is_short:
+            style = cfg.get("shorts", {}).get("caption_style",
+                         "FontName=Arial,FontSize=13,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,"
+                         "BorderStyle=1,Outline=2,Shadow=0,MarginL=20,MarginR=20,MarginV=70")
+        else:
+            style = vcfg.get("caption_style",
                          "FontName=Arial,FontSize=22,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,"
                          "BorderStyle=1,Outline=2,Shadow=0,MarginV=60")
         vf = ["-vf", f"subtitles='{_ff_path(captions)}':force_style='{style}'"]

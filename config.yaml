@@ -19,6 +19,10 @@ video:
   music_volume: 0.08             # background music level (files in assets/music/)
   background_color: "0x0e3f3d"   # used when no images are found
 
+shorts:
+  seconds_per_visual: 3          # Shorts change picture faster
+  max_seconds: 60                # warn above this (hard limit 180)
+
 thumbnail:
   font: ""                       # optional path to a bold .ttf font
   text_rgb: [255, 210, 63]

@@ -70,6 +70,9 @@ Claude Code **apne computer par** chalayein (Claude desktop app ka Code tab, ya 
 
 ---
 
+## Shorts
+Script ke front matter mein `format: short` likhein. Pipeline khari (1080x1920) video banati hai, title mein #Shorts lagati hai, aur 60 second se lambi ho to warning deti hai. Claude Code se: `/script short: <topic>`
+
 ## Urdu videos
 `config.yaml` mein:
 ```yaml

@@ -47,10 +47,16 @@ def upload(script: Script, video: Path, thumb: Path | None, cfg: dict) -> str:
     }
     if script.publish_at:
         status["publishAt"] = to_utc_iso(script.publish_at)
+    title, description = script.title, script.description
+    if script.is_short:
+        if "#shorts" not in title.lower():
+            title = (title[:91] + " #Shorts") if len(title) > 91 else f"{title} #Shorts"
+        if "#shorts" not in description.lower():
+            description = f"{description}\n\n#Shorts"
     body = {
         "snippet": {
-            "title": script.title[:100],
-            "description": script.description[:5000],
+            "title": title[:100],
+            "description": description[:5000],
             "tags": script.tags,
             "categoryId": script.category_id,
             "defaultLanguage": ycfg.get("language", "en"),
@@ -75,7 +81,7 @@ def upload(script: Script, video: Path, thumb: Path | None, cfg: dict) -> str:
             raise
     vid = resp["id"]
     print(f"  upload: done -> https://studio.youtube.com/video/{vid}/edit")
-    if thumb and thumb.exists():
+    if thumb and thumb.exists() and not script.is_short:
         try:
             yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(str(thumb), mimetype="image/png")).execute()
             print("  upload: thumbnail set")
