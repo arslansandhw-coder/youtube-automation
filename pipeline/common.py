@@ -61,6 +61,7 @@ def clean_narration(body: str) -> str:
     bullet markers and emphasis characters.
     """
     body = re.sub(r"<!--.*?-->", "", body, flags=re.S)
+    body = re.sub(r"\[[^\]]*\]", "", body, flags=re.S)   # [notes], also across several lines
     lines = []
     for line in body.splitlines():
         s = line.strip()

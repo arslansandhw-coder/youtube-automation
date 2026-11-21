@@ -1,14 +1,14 @@
 # Channel settings. Claude Code can edit this file for you.
 
 channel:
-  name: "My Channel"
+  name: "Umrah Asaan"
   bible: channel/bible.md        # who the videos are for, tone, rules
 
 voice:
   # Free Microsoft Edge voices. List them with:  python run.py --voices en
   # Urdu examples: ur-PK-AsadNeural (male), ur-PK-UzmaNeural (female)
-  name: en-US-AndrewMultilingualNeural
-  rate: "+0%"                    # "-10%" slower, "+10%" faster
+  name: ur-PK-AsadNeural
+  rate: "-5%"                    # "-10%" slower, "+10%" faster
 
 video:
   width: 1920
@@ -25,5 +25,5 @@ thumbnail:
   background_rgb: [14, 63, 61]
 
 youtube:
-  language: en                   # use "ur" for Urdu videos
+  language: ur                   # use "en" for English videos
   made_for_kids: false

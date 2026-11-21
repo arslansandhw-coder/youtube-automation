@@ -1,32 +1,52 @@
-# Channel bible
+# Channel bible: Umrah Asaan
 
-Claude reads this before writing any idea or script. Fill it in once and keep it updated.
+Claude reads this before writing any idea or script. Keep it updated.
 
 ## The channel in one line
-<!-- Example: Plain-language explainers on personal finance for young people in Pakistan. -->
+Umrah aur Saudi safar ki practical guide, Urdu mein: visa, Nusuk, bookings, kharcha, transport aur har naya qanoon, aasaan alfaaz mein aur sources ke saath.
+
+## Name
+- Channel name: **Umrah Asaan**
+- Handle (first choice): @UmrahAsaan. Backups: @UmrahAsaanUrdu, @AsaanUmrahGuide
+- Tagline: "Umrah ki tayyari, aasaan Urdu mein"
+
+## Why this niche
+- Pakistan sends more Umrah pilgrims than any other country: about 200,000 in the first weeks of the 1448 AH season alone (Saudi Ministry of Hajj and Umrah, July 2026).
+- The rules keep changing (Nusuk bookings before visa, 30-day entry window, one-year multiple-entry visa, food vouchers, Pakistan's new operator rules). Every change is a new video people search for.
+- The owner works in Saudi travel (GH TripKSA), so every video can carry real, first-hand experience. That is the channel's protection against YouTube's "inauthentic content" rule.
 
 ## Who watches
-<!-- Age, country, what they already know, what they want from a video. -->
+- Pakistani families planning their first or next Umrah, often for parents
+- Ages 25 to 55, watching on phones, mostly in Urdu, some in Roman Urdu
+- They fear being cheated by agents, losing money on a rejected visa, or getting stuck at the airport
+- Secondary: Pakistanis working in the Gulf, and Indian Urdu/Hindi speakers
 
 ## What makes this channel different
-<!-- Your own experience, opinion, research or format. This is what keeps the channel monetizable. -->
+- Only practical, checked travel information, each fact with a source and a date
+- "What changed and what it means for YOU" in the first 30 seconds
+- Real tips from the owner's work in Saudi travel: [MY TAKE] in every script
+- Calm, respectful tone. No fear-mongering, no "BREAKING!!!" hype
 
 ## Video format
-- Length: 8 to 10 minutes (about 1,200 to 1,500 spoken words)
-- Language: English
-- Structure: hook (first 15 seconds), promise, 3 to 5 main points, recap, one call to action
-- Tone: friendly, direct, no hype
+- Length: 5 to 8 minutes (about 700 to 1,100 spoken Urdu words)
+- Language: Urdu narration (Urdu script for the voice), Roman Urdu + English in titles, tags and thumbnail text so people can find it in search
+- Voice: ur-PK-AsadNeural (free Edge voice). Owner may replace it with his own recording.
+- Structure: hook (what changed) -> who it affects -> step-by-step -> common mistakes -> [MY TAKE] -> short recap -> one call to action (comment your question)
+- Thumbnail text: English or Roman Urdu, 4 words max (the thumbnail tool cannot draw Urdu script)
+- Visuals: licensed photos of Makkah, Madinah, airports, documents, phone screens (Nusuk app). Never other creators' footage.
 
 ## Always
-- Give a source for every number or claim (list them under "Sources" at the end of the script)
+- A source for every rule, number and date, in [Sources: ...] at the end, with the date of the source
+- Say "check the latest rule on Nusuk / with your licensed operator before you book", because rules change
+- Mention the date the information is correct as of
 - Vary structure and examples from video to video
-- Leave a clearly marked spot for my own story or opinion: [MY TAKE: ...]
 
 ## Never
-- Health, legal or money advice presented as an expert or by an AI persona
-- Shock, fake or distressing content
-- Other creators' footage or copyrighted music
-- Clickbait titles the video does not deliver on
+- Religious rulings (fiqh) about how to perform the rites. Point to the official Ministry of Hajj and Umrah Urdu guide or a qualified scholar instead.
+- Naming or shaming specific travel agents
+- Visa "tricks", overstaying advice, or anything that breaks Saudi or Pakistani rules
+- Prices without a source and date
+- Fake urgency, fake news, or AI-made images of real people or real events
 
 ## Topics already covered
-<!-- Claude adds a line here after each published video, so ideas do not repeat. -->
+<!-- Claude adds a line here after each published video. -->
