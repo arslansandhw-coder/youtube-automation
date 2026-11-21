@@ -1,0 +1,19 @@
+# secrets: never commit these
+client_secret*.json
+token.json
+.env
+
+# generated files
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# large media: keep your footage and music on your computer
+assets/**/*.mp4
+assets/**/*.mov
+assets/**/*.webm
+assets/**/*.mkv
+assets/music/*
+!assets/**/.gitkeep

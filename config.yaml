@@ -1,0 +1,29 @@
+# Channel settings. Claude Code can edit this file for you.
+
+channel:
+  name: "My Channel"
+  bible: channel/bible.md        # who the videos are for, tone, rules
+
+voice:
+  # Free Microsoft Edge voices. List them with:  python run.py --voices en
+  # Urdu examples: ur-PK-AsadNeural (male), ur-PK-UzmaNeural (female)
+  name: en-US-AndrewMultilingualNeural
+  rate: "+0%"                    # "-10%" slower, "+10%" faster
+
+video:
+  width: 1920
+  height: 1080
+  fps: 30
+  seconds_per_visual: 6          # how long each image or clip stays on screen
+  captions: true                 # burn subtitles into the video
+  music_volume: 0.08             # background music level (files in assets/music/)
+  background_color: "0x0e3f3d"   # used when no images are found
+
+thumbnail:
+  font: ""                       # optional path to a bold .ttf font
+  text_rgb: [255, 210, 63]
+  background_rgb: [14, 63, 61]
+
+youtube:
+  language: en                   # use "ur" for Urdu videos
+  made_for_kids: false

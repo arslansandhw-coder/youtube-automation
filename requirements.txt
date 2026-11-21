@@ -1,0 +1,5 @@
+edge-tts>=7.0
+google-api-python-client>=2.150
+google-auth-oauthlib>=1.2
+Pillow>=10.0
+PyYAML>=6.0
