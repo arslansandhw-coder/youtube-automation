@@ -8,6 +8,16 @@ Approved script se voice, captions, thumbnail aur video khud banti hai, aur YouT
 
 ---
 
+## Sab se aasaan tareeqa (Windows): 3 files, double-click
+
+| File | Kya karti hai |
+| --- | --- |
+| `1-setup.bat` | Python, FFmpeg aur packages khud install karti hai (sirf pehli dafa) |
+| `2-test-video.bat` | Pehli script ki namoona video banati hai. Upload nahi karti, approval ki zaroorat nahi |
+| `3-upload-videos.bat` | Har `approved: true` script ki video bana kar YouTube par **private** upload karti hai |
+
+Neeche wale steps wahi kaam haath se karne ka tareeqa hain (Mac ke liye bhi).
+
 ## Hissa 1: Computer tayyar karna (sirf ek dafa)
 
 **Step 1. Python install karein**

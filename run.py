@@ -5,6 +5,7 @@ Usage:
   python run.py scripts/pending/x.md # one script
   python run.py --no-upload          # build voice, thumbnail and video only
   python run.py --voices ur          # list free voices for a language (ur, en, hi, ar ...)
+  python run.py --preview            # build ONE pending script for review, even if not approved; never uploads
 
 A script is only processed when its front matter says  approved: true
 Videos are always uploaded as PRIVATE. You make them public (or let publish_at do it)
@@ -26,14 +27,16 @@ PENDING = ROOT / "scripts" / "pending"
 DONE = ROOT / "scripts" / "done"
 
 
-def process(path: Path, cfg: dict, do_upload: bool) -> bool:
+def process(path: Path, cfg: dict, do_upload: bool, preview: bool = False) -> bool:
     from pipeline.assemble import assemble
     from pipeline.thumbnail import make_thumbnail
     from pipeline.voice import make_voice
 
     print(f"\n=== {path.name}")
     script = parse_script(path)
-    if not script.approved:
+    if preview:
+        print("  preview: building for review only (approval not needed, no upload)")
+    elif not script.approved:
         print("  skipped: set  approved: true  in the front matter after you have reviewed the script")
         return False
     voice, captions = make_voice(script, cfg)
@@ -56,6 +59,8 @@ def main() -> int:
     ap.add_argument("scripts", nargs="*", help="script files (default: all in scripts/pending)")
     ap.add_argument("--no-upload", action="store_true", help="build files only, do not upload")
     ap.add_argument("--voices", metavar="LANG", help="list free voices, e.g. --voices ur")
+    ap.add_argument("--preview", action="store_true",
+                    help="build the first pending script (or the ones given) for review; never uploads")
     args = ap.parse_args()
 
     if args.voices is not None:
@@ -65,13 +70,16 @@ def main() -> int:
 
     cfg = load_config()
     paths = [Path(p) for p in args.scripts] or sorted(PENDING.glob("*.md"))
+    if args.preview:
+        paths = paths if args.scripts else paths[:1]
+        args.no_upload = True
     if not paths:
         print("No scripts in scripts/pending/. Ask Claude Code: /script <topic>")
         return 0
     ok = failed = 0
     for p in paths:
         try:
-            if process(p, cfg, not args.no_upload):
+            if process(p, cfg, not args.no_upload, preview=args.preview):
                 ok += 1
         except Exception as e:  # keep going with the next script
             failed += 1
