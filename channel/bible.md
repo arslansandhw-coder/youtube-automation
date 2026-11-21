@@ -7,7 +7,7 @@ Umrah aur Saudi safar ki practical guide, Urdu mein: visa, Nusuk, bookings, khar
 
 ## Name
 - Channel name: **Umrah Asaan**
-- Handle (first choice): @UmrahAsaan. Backups: @UmrahAsaanUrdu, @AsaanUmrahGuide
+- Handle: @UmrahAsaann (youtube.com/@UmrahAsaann)
 - Tagline: "Umrah ki tayyari, aasaan Urdu mein"
 
 ## Why this niche

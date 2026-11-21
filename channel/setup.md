@@ -4,7 +4,7 @@ Yeh sab YouTube Studio mein copy-paste karne ke liye tayyar hai (Studio -> Custo
 
 ## Name and handle
 - **Name:** Umrah Asaan
-- **Handle:** @UmrahAsaan (agar na mile: @UmrahAsaanUrdu, phir @AsaanUmrahGuide)
+- **Handle:** @UmrahAsaann (youtube.com/@UmrahAsaann). @UmrahAsaan pehle se kisi aur ka hai.
 
 ## Description (About)
 Umrah Asaan par Umrah aur Saudi safar ki practical maloomat aasaan Urdu mein milti hai: visa, Nusuk booking, Umrah permit, kharcha, transport aur har naya qanoon.
