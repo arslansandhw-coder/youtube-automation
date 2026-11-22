@@ -16,6 +16,7 @@ description: |
   Express Tribune, 21 Jul 2026: https://tribune.com.pk/story/2619462/saudi-arabia-introduces-one-year-multiple-entry-umrah-visa
   Daily Times, 20 Jul 2026: https://dailytimes.com.pk/1525873/saudi-arabia-launches-multiple-entry-umrah-visa/
   Wego, Umrah rules 1448 AH: https://blog.wego.com/umrah-visa-new-rules/
+  Photos: Pexels (pexels.com)
 tags: [multiple entry umrah visa, umrah visa 1 year, umrah visa 2026, nusuk, umrah from pakistan, umrah new rules, umrah guide urdu, saudi visa, umrah asaan]
 thumbnail_text: "1 YEAR UMRAH VISA"
 publish_at: 2026-11-30T19:00:00+05:00

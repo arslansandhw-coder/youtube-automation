@@ -102,7 +102,7 @@ Script ka video banane se pehle apni recording `output/<script-ka-naam>/voice.mp
 - Har script mein apni raye, tajurba ya research shamil karein. Ek jaisi template wali videos YouTube monetize nahi karta.
 - Har video upload ke baad **khud dekhein**. Pipeline hamesha private upload karti hai.
 - Agar visuals ya awaaz asli insaan ya asli waqia jaisi lagti hai to `synthetic_media: true` likhein.
-- Sirf free/licensed tasveerein aur music use karein.
+- Sirf free/licensed tasveerein aur music use karein (jaise Pexels). Description mein "Photos: Pexels" likhein.
 - Custom thumbnail ke liye channel phone se verify hona chahiye (youtube.com/verify).
 
 ## Masle (Troubleshooting)

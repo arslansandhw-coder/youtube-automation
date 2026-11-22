@@ -17,6 +17,7 @@ description: |
   Siasat, 19 Jul 2026: https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/
   Wego, Umrah rules 1448 AH: https://blog.wego.com/umrah-visa-new-rules/
   Dawn, 1 Nov 2025: https://www.dawn.com/news/1952496
+  Photos: Pexels (pexels.com)
 tags: [ramadan umrah 2027, umrah 2027, ramadan 2027, umrah visa deadline, umrah season 1448, umrah from pakistan, umrah planning, umrah guide urdu, umrah asaan]
 thumbnail_text: "RAMADAN UMRAH 2027"
 publish_at: 2026-12-07T19:00:00+05:00

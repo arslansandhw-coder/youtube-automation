@@ -21,6 +21,7 @@ description: |
   ARY News, 15 Jul 2026: https://arynews.tv/umrah-services-new-rules-for-pilgrims-in-pakistan
   Arab News, 18 Jul 2026: https://www.arabnews.pk/node/2651416/saudi-arabia
   Daily Times, 4 Aug 2026: https://dailytimes.com.pk/?p=1533318
+  Photos: Pexels (pexels.com)
 tags: [umrah visa 2026, umrah new rules, nusuk, umrah from pakistan, umrah visa pakistan, umrah 1448, umrah booking, umrah guide urdu, saudi visa, umrah asaan]
 thumbnail_text: "UMRAH VISA NEW RULES"
 publish_at: 2026-11-26T19:00:00+05:00

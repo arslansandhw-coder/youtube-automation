@@ -21,6 +21,7 @@ description: |
   Radio Pakistan, 16 Sep 2025: https://www.radio.gov.pk/16-09-2025/mora-releases-list-of-113-approved-umrah-tour-operators
   Arab News, Sep 2025: https://www.arabnews.pk/node/2615562
   Wego, Umrah rules 1448 AH: https://blog.wego.com/umrah-visa-new-rules/
+  Photos: Pexels (pexels.com)
 tags: [umrah agent, umrah fraud, umrah company list, ministry of religious affairs, umrah from pakistan, umrah new rules 2026, umrah package, umrah guide urdu, umrah asaan]
 thumbnail_text: "FRAUD AGENT? CHECK"
 publish_at: 2026-12-03T19:00:00+05:00

@@ -5,6 +5,7 @@ description: |
   Pakistan ke naye qawaneen ke mutabiq sirf ministry se manzoor-shuda companies Umrah services de sakti hain. Paise dene se pehle yeh 3 cheezein zaroor check karein.
   Maloomat 21 November 2026 tak durust hai. Taaza list: mora.gov.pk
   Source: ARY News, 15 Jul 2026 https://arynews.tv/umrah-services-new-rules-for-pilgrims-in-pakistan
+  Photos: Pexels (pexels.com)
 tags: [umrah agent, umrah fraud, umrah company list, umrah from pakistan, shorts, umrah asaan]
 thumbnail_text: "AGENT CHECK"
 publish_at: 2026-12-01T13:00:00+05:00

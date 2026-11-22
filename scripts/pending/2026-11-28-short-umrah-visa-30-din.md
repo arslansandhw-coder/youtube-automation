@@ -5,6 +5,7 @@ description: |
   Umrah visa milne ke baad Saudi Arabia pohanchne ke liye ab sirf 30 din hain. Poori tafseel hamari lambi video mein: Umrah Visa 2026, 5 Naye Qawaneen.
   Maloomat 21 November 2026 tak durust hai.
   Source: Dawn, 1 Nov 2025 https://www.dawn.com/news/1952496 | Wego https://blog.wego.com/umrah-visa-new-rules/
+  Photos: Pexels (pexels.com)
 tags: [umrah visa, umrah 30 days, umrah new rules, umrah from pakistan, shorts, umrah asaan]
 thumbnail_text: "30 DIN"
 publish_at: 2026-11-28T13:00:00+05:00
