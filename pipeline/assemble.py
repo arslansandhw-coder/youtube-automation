@@ -83,11 +83,13 @@ def _pan_clip(src: Path, seconds: float, dst: Path, w: int, h: int, fps: int, va
     sx, ex = ((0, dx), (dx, 0))[variant % 2]
     sy, ey = ((0, dy), (dy, 0))[(variant // 2) % 2]
     T = max(seconds, 0.1)
-    vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
+    # loop filter (works in every FFmpeg version) instead of the -loop input option
+    vf = (f"loop=loop=-1:size=1:start=0,setpts=N/{fps}/TB,"
+          f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
           f"crop={w}:{h}:x='{sx}+({ex}-{sx})*t/{T:.3f}':y='{sy}+({ey}-{sy})*t/{T:.3f}',setsar=1,fps={fps}")
     if darken > 0:
         vf += f",drawbox=x=0:y=0:w=iw:h=ih:color=black@{darken}:t=fill"
-    run(["ffmpeg", "-y", "-loop", "1", "-framerate", str(fps), "-t", f"{seconds:.3f}", "-i", str(src),
+    run(["ffmpeg", "-y", "-framerate", str(fps), "-i", str(src), "-t", f"{seconds:.3f}",
          "-vf", vf, "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p", "-crf", "21", str(dst)])
 
 
@@ -273,10 +275,10 @@ def assemble(script: Script, voice: Path, captions: Path | None, cfg: dict, timi
     v = "[0:v]"
     nxt = 3
     if logo.exists():
-        inputs += ["-loop", "1", "-i", str(logo)]
+        inputs += ["-i", str(logo)]   # a single still: overlay keeps showing its last frame
         lw = (w // 13) if not script.is_short else (w // 8)
         fc.append(f"[{nxt}:v]scale={lw}:-1,format=rgba,colorchannelmixer=aa=0.9[lg]")
-        fc.append(f"{v}[lg]overlay=W-w-{w // 50}:{w // 50}:shortest=1[v1]")
+        fc.append(f"{v}[lg]overlay=W-w-{w // 50}:{w // 50}:eof_action=repeat[v1]")
         v = "[v1]"
         nxt += 1
     fc.append(f"{v}[2:v]overlay=x='-W+W*t/{duration:.3f}':y=H-h:shortest=1[v2]")
