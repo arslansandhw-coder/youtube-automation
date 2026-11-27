@@ -117,7 +117,9 @@ approved: false
 پھر وزارت مذہبی امور سے رابطہ کریں۔ یاد رکھیں، وزارت نے کہا ہے کہ شکایت صرف منظور شدہ کمپنیوں کے خلاف سنی جائے گی۔ اسی لیے پہلا قدم، یعنی فہرست چیک کرنا، سب سے ضروری ہے۔
 
 # Mera mashwara | میرا مشورہ
-[MY TAKE: Apne kaam ke tajurbe se ek asal (bina naam ke) waqia batayein jahan kisi ne ghalat agent se nuqsan uthaya, ya aap ke paas aane wale log sab se zyada kis cheez se darte hain. Aur yeh bhi bata dein ke aap khud kaise apne customers ko yeh tafseel dete hain. 3 se 4 jumle, Urdu script mein.]
+[DRAFT MY TAKE (Claude ne likha): yeh aap ka tajurba nahi, sirf aam mashwara hai. Approve karne se pehle apne alfaaz mein badal dein, ya theek lage to rehne dein.]
+
+میرا مشورہ یہ ہے کہ صرف سستے پیکیج کو دیکھ کر فیصلہ نہ کریں۔ جو کمپنی ہوٹل کا نام، بکنگ کی تفصیل اور رسید کھل کر دے، وہی بہتر ہے۔ اگر آپ اپنے والدین کو بھیج رہے ہیں، تو یہ پانچ منٹ ضرور لگائیں۔
 
 # Recap | خلاصہ
 [B-roll: Masjid al-Haram]

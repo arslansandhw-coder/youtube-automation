@@ -117,7 +117,9 @@ approved: false
 تیسری: واپسی کی ٹکٹ سات اپریل کے بعد کی بک کرنا۔
 
 # Mera mashwara | میرا مشورہ
-[MY TAKE: Ramadan ke rush ke baare mein apna tajurba batayein: hotel kitni jaldi bhar jate hain, aur aap apne customers ko kab booking ka mashwara dete hain. 3 se 4 jumle, Urdu script mein.]
+[DRAFT MY TAKE (Claude ne likha): yeh aap ka tajurba nahi, sirf aam mashwara hai. Approve karne se pehle apne alfaaz mein badal dein, ya theek lage to rehne dein.]
+
+میرا مشورہ یہ ہے کہ رمضان کے لیے ہوٹل اور ٹرانسپورٹ کی بکنگ ابھی سے دیکھنا شروع کریں، لیکن ویزا اپنی روانگی کے حساب سے ہی لگوائیں۔ اگر آخری عشرے کا ارادہ ہے، تو بکنگ اور بھی پہلے کر لیں۔
 
 # Recap | خلاصہ
 [B-roll: Masjid an-Nabawi, raat]

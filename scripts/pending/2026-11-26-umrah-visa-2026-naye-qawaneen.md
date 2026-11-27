@@ -117,7 +117,9 @@ approved: false
 تیسری غلطی: صرف کم قیمت دیکھ کر کسی بھی ایجنٹ کو پیسے دے دینا۔ پہلے یہ دیکھیں کہ کمپنی منظور شدہ ہے یا نہیں۔
 
 # Mera mashwara | میرا مشورہ
-[MY TAKE: Yahan apne kaam ka ek asal tajurba likhein, maslan kisi customer ka visa 30 din ki wajah se kaise khatam hua, ya booking pehle karne se kya faida hua. 3 se 4 jumle, apni zubaan mein, Urdu script mein.]
+[DRAFT MY TAKE (Claude ne likha): yeh aap ka tajurba nahi, sirf aam mashwara hai. Approve karne se pehle apne alfaaz mein badal dein, ya theek lage to rehne dein.]
+
+میرا مشورہ یہ ہے کہ ویزا کی جلدی نہ کریں۔ پہلے اپنی تاریخیں، ہوٹل اور ٹرانسپورٹ پکے کریں، پھر ویزا۔ ایجنٹ سے بکنگ ریفرنس نمبر لکھوا کر لیں، اور کوئی بات سمجھ نہ آئے تو کمنٹ میں پوچھ لیں۔
 
 # Recap | خلاصہ
 [B-roll: Masjid an-Nabawi ki tasveer]
