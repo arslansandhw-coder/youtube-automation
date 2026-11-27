@@ -7,15 +7,19 @@ description: |
 
   00:00 Naya visa kya hai?
   00:35 365 din, 90 din ka qayam
-  01:30 Har safar se pehle 3 kaam
-  02:30 Hajj season mein pabandi
-  03:10 Kis ke liye faida, kis ke liye nahi
-  04:30 Mera mashwara
+  01:20 Har safar se pehle 3 kaam
+  02:20 90 din ka hisaab, ek misaal
+  03:20 Hajj season mein pabandi
+  03:50 Kis ke liye faida, kis ke liye nahi
+  04:50 3 ghalat fehmiyan
+  05:30 Agent se 4 sawal
+  06:30 Mera mashwara
 
   Sources:
   Express Tribune, 21 Jul 2026: https://tribune.com.pk/story/2619462/saudi-arabia-introduces-one-year-multiple-entry-umrah-visa
   Daily Times, 20 Jul 2026: https://dailytimes.com.pk/1525873/saudi-arabia-launches-multiple-entry-umrah-visa/
   Wego, Umrah rules 1448 AH: https://blog.wego.com/umrah-visa-new-rules/
+  ARY News, 15 Jul 2026: https://arynews.tv/umrah-services-new-rules-for-pilgrims-in-pakistan
   Photos: Pexels (pexels.com)
 tags: [multiple entry umrah visa, umrah visa 1 year, umrah visa 2026, nusuk, umrah from pakistan, umrah new rules, umrah guide urdu, saudi visa, umrah asaan]
 thumbnail_text: "1 YEAR UMRAH VISA"
@@ -53,6 +57,17 @@ approved: false
 
 ہر بار سعودی عرب سے واپس آنے پر یہ ویزا بند ہو جاتا ہے، اور اگلے سفر کی شرطیں پوری ہونے پر دوبارہ چالو ہوتا ہے۔
 
+# Hisaab | 90 دن کا حساب
+[B-roll: diary mein teen safar ke din likhe hue]
+
+اب نوے دن والی حد کو ایک مثال سے سمجھتے ہیں۔
+
+فرض کریں آپ اس ایک سال میں تین بار جانا چاہتے ہیں۔ پہلا سفر پچیس دن کا، دوسرا تیس دن کا، اور تیسرا پینتیس دن کا۔ ان کا جوڑ پورے نوے دن بنتا ہے، اس لیے یہ منصوبہ حد کے اندر ہے۔
+
+لیکن اگر تیسرا سفر چالیس دن کا رکھیں، تو کل دن پچانوے ہو جائیں گے، اور یہ حد سے باہر ہے۔ ایسے میں نسک پر پیکیج بھی نہیں بنے گا، کیونکہ ہر پیکیج کے دن ویزا کے باقی دنوں کے اندر ہونے چاہئیں۔
+
+اس لیے ایک چھوٹی سی ڈائری یا فون کے نوٹس میں ہر سفر کے دن لکھتے جائیں، تاکہ آپ کو ہمیشہ پتہ ہو کہ کتنے دن باقی ہیں۔
+
 # Hajj season | حج کے دنوں میں پابندی
 [B-roll: Mina ya Hajj ki aam tasveer, logon ke chehre wazeh na hon]
 
@@ -71,6 +86,30 @@ approved: false
 
 ابھی تک جو سرکاری خبر آئی ہے، اس میں اس ویزا کی فیس اور درخواست کا مکمل طریقہ نہیں بتایا گیا۔ اس لیے پیسے دینے سے پہلے اپنے لائسنس یافتہ آپریٹر سے فیس اور طریقہ ضرور تحریری طور پر لیں۔
 
+# Ghalat fehmiyan | 3 غلط فہمیاں
+[B-roll: sawaliya nishan, phone par message]
+
+اس ویزا کے بارے میں تین غلط فہمیاں بہت عام ہیں۔
+
+پہلی غلط فہمی: ایک بار ویزا لے لیا تو ہر سفر کا پرمٹ خود بن جائے گا۔ ایسا نہیں ہے۔ ہر سفر کے لیے نیا نسک پیکیج اور نیا عمرہ پرمٹ چاہیے۔
+
+دوسری غلط فہمی: ہر سفر میں نوے دن رہ سکتے ہیں۔ نہیں، نوے دن پورے سال کا کل جوڑ ہے۔
+
+تیسری غلط فہمی: اسی ویزا پر حج بھی ہو جائے گا۔ نہیں، حج کے لیے الگ حج ویزا ہی چاہیے۔
+
+# Sawal | ایجنٹ سے 4 سوال
+[B-roll: office mein guftagu, kaghaz par notes]
+
+یہ ویزا لینے سے پہلے اپنے ایجنٹ سے یہ چار سوال ضرور پوچھیں، اور جواب تحریری طور پر لیں۔
+
+ایک: اس ویزا کی فیس کتنی ہے، اور ہر سفر کے پیکیج کی قیمت الگ کتنی ہوگی؟
+
+دو: ہر پیکیج میں کیا کیا شامل ہے، یعنی ہوٹل، ٹرانسپورٹ اور باقی خدمات؟
+
+تین: آپ کی کمپنی کا رجسٹرڈ نام کیا ہے، اور کیا یہ وزارت مذہبی امور کی منظور شدہ فہرست میں ہے؟ یاد رکھیں، پاکستان میں اب صرف منظور شدہ کمپنیاں ہی عمرہ کی خدمات دے سکتی ہیں۔
+
+چار: اگر کسی سفر کی تاریخ بدلنی پڑے، تو پیکیج کا کیا ہوگا؟
+
 # Mera mashwara | میرا مشورہ
 [MY TAKE: Apne kaam ke tajurbe se batayein: kya aap ke customers is visa ke baare mein pooch rahe hain? Kis qisam ke musafir ke liye aap yeh visa recommend karenge? 3 se 4 jumle, Urdu script mein.]
 
@@ -84,4 +123,6 @@ approved: false
 [Sources:
 - Express Tribune, 21 Jul 2026: https://tribune.com.pk/story/2619462/saudi-arabia-introduces-one-year-multiple-entry-umrah-visa (365 days, 90 days cumulative stay, Nusuk package per visit, package within remaining days, permit before arrival, deactivated after each departure, not usable 1 Zilqad to 13 Zilhajj; fees and application method not given)
 - Daily Times, 20 Jul 2026: https://dailytimes.com.pk/1525873/saudi-arabia-launches-multiple-entry-umrah-visa/ (launch by Ministry of Hajj and Umrah, 365 days, 90 days)
-- Wego, updated 26 Jun 2026: https://blog.wego.com/umrah-visa-new-rules/ (each entry needs a new Nusuk package and permit; Hajj needs a Hajj visa)]
+- Wego, updated 26 Jun 2026: https://blog.wego.com/umrah-visa-new-rules/ (each entry needs a new Nusuk package and permit; Hajj needs a Hajj visa)
+- ARY News, 15 Jul 2026: https://arynews.tv/umrah-services-new-rules-for-pilgrims-in-pakistan (only ministry-approved companies may provide Umrah services in Pakistan)
+- Example arithmetic: 25 + 30 + 35 = 90 days; 25 + 30 + 40 = 95 days]

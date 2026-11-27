@@ -12,8 +12,10 @@ description: |
   01:40 Qadam 2: Sirf bank se payment
   02:20 Qadam 3: Likhit muahida aur raseed
   03:00 Qadam 4: Booking ki tafseel pehle
-  03:40 Khatre ki 4 nishaniyan
-  04:30 Mera mashwara
+  03:40 Ek ghar ki misaal
+  04:30 Khatre ki 4 nishaniyan
+  05:15 Masla ho to kya karein
+  05:50 Mera mashwara
 
   Sources:
   ARY News, 15 Jul 2026: https://arynews.tv/umrah-services-new-rules-for-pilgrims-in-pakistan
@@ -77,6 +79,19 @@ approved: false
 
 جو ایجنٹ یہ تفصیل دینے سے کترائے، اس سے ہوشیار رہیں۔
 
+# Misaal | ایک گھر کی مثال
+[B-roll: ghar mein family, phone aur kaghazat]
+
+اب ان چار قدموں کو ایک مثال سے دیکھتے ہیں۔ فرض کریں احمد صاحب اپنے والدین کو عمرہ پر بھیجنا چاہتے ہیں، اور ایک ایجنٹ نے انہیں پیکیج بتایا ہے۔
+
+پہلے وہ ایجنٹ سے کمپنی کا پورا رجسٹرڈ نام لکھوا لیتے ہیں، اور وزارت کی ویب سائٹ پر موجودہ سال کی فہرست میں وہی نام تلاش کرتے ہیں۔
+
+نام مل جاتا ہے، تو وہ مکہ اور مدینہ کے ہوٹل کا نام، ٹرانسپورٹ کی تفصیل اور بکنگ ریفرنس نمبر ملنے کی تاریخ پوچھتے ہیں۔
+
+پھر وہ رقم بینک کے ذریعے کمپنی کے اکاؤنٹ میں بھیجتے ہیں، اور معاہدہ، رسید اور ایجنٹ کے میسجز ایک فولڈر میں سنبھال لیتے ہیں۔
+
+بس یہی چند قدم ہیں۔ اس میں زیادہ وقت نہیں لگتا، لیکن والدین کا سفر بہت زیادہ محفوظ ہو جاتا ہے۔
+
 # Khatre ki nishaniyan | خطرے کی 4 نشانیاں
 [B-roll: pareshan chehra, phone par message]
 
@@ -91,6 +106,15 @@ approved: false
 چار: ہوٹل کا نام بعد میں بتانے کا کہا جائے۔
 
 ان میں سے ایک بھی نشانی نظر آئے، تو رک جائیں اور پہلے تسلی کر لیں۔
+
+# Masla ho to | مسئلہ ہو تو کیا کریں؟
+[B-roll: documents ka folder, phone]
+
+اور اگر خدانخواستہ کوئی مسئلہ ہو جائے، تو کیا کریں؟
+
+سب سے پہلے گھبرائیں نہیں۔ اپنے سارے کاغذات اکٹھے کریں: بینک کی رسید، معاہدہ، اور ایجنٹ کے ساتھ ہونے والی بات چیت۔
+
+پھر وزارت مذہبی امور سے رابطہ کریں۔ یاد رکھیں، وزارت نے کہا ہے کہ شکایت صرف منظور شدہ کمپنیوں کے خلاف سنی جائے گی۔ اسی لیے پہلا قدم، یعنی فہرست چیک کرنا، سب سے ضروری ہے۔
 
 # Mera mashwara | میرا مشورہ
 [MY TAKE: Apne kaam ke tajurbe se ek asal (bina naam ke) waqia batayein jahan kisi ne ghalat agent se nuqsan uthaya, ya aap ke paas aane wale log sab se zyada kis cheez se darte hain. Aur yeh bhi bata dein ke aap khud kaise apne customers ko yeh tafseel dete hain. 3 se 4 jumle, Urdu script mein.]

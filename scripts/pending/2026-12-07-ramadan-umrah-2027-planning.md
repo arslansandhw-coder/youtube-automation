@@ -9,8 +9,10 @@ description: |
   00:40 Season ki 3 aakhri tareekhein
   01:40 30 din wala qanoon aur Ramadan
   02:40 Aap ka visa calendar
-  03:40 3 ghaltiyan
-  04:20 Mera mashwara
+  04:00 Eid ke baad Umrah?
+  05:00 Booking ki sahih tarteeb
+  06:00 3 ghaltiyan
+  06:30 Mera mashwara
 
   Sources:
   Wego, Ramadan 2027: https://blog.wego.com/ramadan-2027/
@@ -67,7 +69,41 @@ approved: false
 
 اور اگر آپ آخری عشرے کے لیے، یعنی اٹھائیس فروری کے آس پاس جانا چاہتے ہیں، تو ویزا انتیس جنوری کے بعد جاری ہونا چاہیے۔
 
+اور اگر آپ درمیانی عشرے میں، یعنی اٹھارہ فروری کے آس پاس پہنچنا چاہتے ہیں، تو ویزا انیس جنوری کے بعد جاری ہونا چاہیے۔
+
+اور جو لوگ عید مکہ یا مدینہ میں گزارنا چاہتے ہیں، وہ یاد رکھیں کہ واپسی سات اپریل سے پہلے ہونی چاہیے۔
+
 لیکن ہوٹل اور ٹرانسپورٹ کی بکنگ ابھی سے دیکھنا شروع کر دیں، کیونکہ اب ویزا سے پہلے یہ بکنگ ضروری ہے، اور رمضان میں ہوٹل جلدی بھر جاتے ہیں۔
+
+# Eid ke baad | عید کے بعد عمرہ؟
+[B-roll: calendar par March ke din, 9 aur 23 par nishan]
+
+بہت سے لوگ رمضان کے رش سے بچ کر عید کے فوراً بعد جانا چاہتے ہیں۔ یہ بھی ہو سکتا ہے، لیکن حساب اور بھی تنگ ہے۔
+
+اگر آپ کا ویزا نو مارچ سے پہلے جاری ہو گیا، تو آپ تئیس مارچ تک سعودی عرب میں داخل ہو سکتے ہیں۔ یعنی تیس دن والی گنجائش یہاں پوری نہیں ملے گی، کیونکہ تئیس مارچ کے بعد داخلہ بند ہے۔
+
+مثال کے طور پر، اگر ویزا پانچ مارچ کو جاری ہوا، تو عام حالات میں تیس دن ملتے، لیکن اس سیزن میں داخلے کی آخری تاریخ تئیس مارچ ہی رہے گی۔ اور واپسی پھر بھی سات اپریل تک۔
+
+اس لیے عید کے بعد جانے والے اپنی بکنگ اور ویزا فروری میں ہی مکمل کر لیں۔
+
+# Tarteeb | بکنگ کی صحیح ترتیب
+[B-roll: 1 se 6 tak number, checklist]
+
+اب پوری تیاری کو صحیح ترتیب میں رکھتے ہیں۔ یہ چھ قدم ہیں۔
+
+ایک: اپنی روانگی اور واپسی کی تاریخیں طے کریں۔ واپسی سات اپریل سے پہلے۔
+
+دو: وزارت مذہبی امور کی منظور شدہ کمپنی چنیں۔
+
+تین: مکہ اور مدینہ کا ہوٹل اور ٹرانسپورٹ نسک پر کنفرم کروائیں، اور بکنگ ریفرنس نمبر لیں۔
+
+چار: روانگی سے تیس دن کے اندر کی تاریخ میں ویزا لگوائیں، اور نو مارچ سے پہلے۔
+
+پانچ: نسک ایپ سے عمرہ پرمٹ لیں۔
+
+چھ: سفر سے ایک دو دن پہلے ایئرلائن سے فلائٹ کی تازہ صورتحال چیک کریں۔
+
+اس ترتیب میں سب سے زیادہ وقت تیسرے قدم کو دیں، کیونکہ رمضان میں ہوٹل جلدی بھر جاتے ہیں۔
 
 # Ghaltiyan | 3 عام غلطیاں
 [B-roll: airport par pareshan family]
@@ -97,4 +133,6 @@ approved: false
 - Siasat, 19 Jul 2026: https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/ (visa issuance ends 9 Mar 2027 = 1 Shawwal 1448; entry by 23 Mar; departure by 7 Apr 2027)
 - Wego, updated 26 Jun 2026: https://blog.wego.com/umrah-visa-new-rules/ (30-day entry window, 90-day stay, bookings before visa)
 - Dawn, 1 Nov 2025: https://www.dawn.com/news/1952496 (visa cancelled if not used within 30 days)
-- Date arithmetic: 8 Feb 2027 minus 30 days = 9 Jan 2027; 28 Feb 2027 minus 30 days = 29 Jan 2027]
+- ARY News, 15 Jul 2026: https://arynews.tv/umrah-services-new-rules-for-pilgrims-in-pakistan (only ministry-approved companies in Pakistan)
+- Season-limit example: visa issued 5 Mar 2027 would normally allow entry within 30 days, but the season's last entry date (23 Mar 2027) still applies (ministry calendar above)
+- Date arithmetic: 8 Feb 2027 minus 30 days = 9 Jan 2027; 18 Feb 2027 minus 30 days = 19 Jan 2027; 28 Feb 2027 minus 30 days = 29 Jan 2027]
