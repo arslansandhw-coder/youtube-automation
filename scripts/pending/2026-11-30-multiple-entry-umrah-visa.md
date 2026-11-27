@@ -111,7 +111,9 @@ approved: false
 چار: اگر کسی سفر کی تاریخ بدلنی پڑے، تو پیکیج کا کیا ہوگا؟
 
 # Mera mashwara | میرا مشورہ
-[MY TAKE: Apne kaam ke tajurbe se batayein: kya aap ke customers is visa ke baare mein pooch rahe hain? Kis qisam ke musafir ke liye aap yeh visa recommend karenge? 3 se 4 jumle, Urdu script mein.]
+[B-roll: owner ka office ya Saudi travel ka kaam]
+
+میرے اپنے کام میں اس ویزا کے بارے میں سب سے زیادہ سوال وہ پاکستانی کرتے ہیں جو خلیجی ممالک میں کام کرتے ہیں۔ میں یہ ویزا انہی لوگوں کو تجویز کرتا ہوں جو سال میں دو بار عمرہ پر جاتے ہیں۔
 
 # Recap | خلاصہ
 [B-roll: Masjid an-Nabawi]
