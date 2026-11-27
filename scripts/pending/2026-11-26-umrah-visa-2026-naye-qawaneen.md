@@ -112,6 +112,7 @@ approved: false
 
 [Sources:
 - Wego, "List of All Umrah Visa New Rules For 2026-2027 Season", updated 26 Jun 2026: https://blog.wego.com/umrah-visa-new-rules/ (30-day entry, 90-day stay, Nusuk registration, hotel + transport before visa, BRN, all visa types, season dates)
+- Ministry of Hajj and Umrah (official), 17 May 2026: https://haj.gov.sa/en/Media-Center/Ministry-News/2026/Ministry-of-Hajj-and-Umrah-Announces-the-Umrah-Season-Calendar-for-1448-AH (official season dates: visa issuance until 9 Mar 2027, entry until 23 Mar 2027, departure by 7 Apr 2027)
 - Dawn, 1 Nov 2025: https://www.dawn.com/news/1952496 (validity cut from 3 months to 1 month; stay still 3 months)
 - Wego, "Umrah Visa from Pakistan 2026", updated 4 Sep 2026: https://blog.wego.com/how-to-apply-umrah-visa-pakistan-2026/ (Pakistanis go through licensed operators)
 - ARY News, 15 Jul 2026: https://arynews.tv/umrah-services-new-rules-for-pilgrims-in-pakistan (only ministry-approved companies)

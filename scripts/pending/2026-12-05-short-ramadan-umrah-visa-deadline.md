@@ -4,7 +4,7 @@ title: "Ramadan Umrah 2027: 9 March ke Baad Visa Nahi Milega"
 description: |
   Is season ka Umrah visa 9 March 2027 (1 Shawwal) tak hi jaari hoga. Ramadan Umrah ki planning abhi se karein.
   Ramadan ki tareekh chand dekh kar tay hogi. Maloomat 21 November 2026 tak durust hai.
-  Sources: Siasat, 19 Jul 2026 https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/ | Wego https://blog.wego.com/ramadan-2027/
+  Sources: Saudi Ministry of Hajj and Umrah, 17 May 2026 https://haj.gov.sa/en/Media-Center/Ministry-News/2026/Ministry-of-Hajj-and-Umrah-Announces-the-Umrah-Season-Calendar-for-1448-AH | Siasat, 19 Jul 2026 https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/ | Wego https://blog.wego.com/ramadan-2027/
   Photos: Pexels (pexels.com)
 tags: [ramadan umrah 2027, umrah visa deadline, umrah 2027, umrah from pakistan, shorts, umrah asaan]
 thumbnail_text: "9 MARCH"
@@ -27,4 +27,4 @@ approved: false
 
 پورا حساب ہماری لمبی ویڈیو میں۔ فالو کریں عمرہ آسان کو۔
 
-[Sources: Siasat, 19 Jul 2026, https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/ ; Wego Ramadan 2027, https://blog.wego.com/ramadan-2027/ ; Wego Umrah rules, https://blog.wego.com/umrah-visa-new-rules/]
+[Sources: Ministry of Hajj and Umrah (official), 17 May 2026: https://haj.gov.sa/en/Media-Center/Ministry-News/2026/Ministry-of-Hajj-and-Umrah-Announces-the-Umrah-Season-Calendar-for-1448-AH ; Siasat, 19 Jul 2026, https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/ ; Wego Ramadan 2027, https://blog.wego.com/ramadan-2027/ ; Wego Umrah rules, https://blog.wego.com/umrah-visa-new-rules/]

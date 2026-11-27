@@ -14,6 +14,7 @@ description: |
 
   Sources:
   Wego, Ramadan 2027: https://blog.wego.com/ramadan-2027/
+  Ministry of Hajj and Umrah (official), 17 May 2026: https://haj.gov.sa/en/Media-Center/Ministry-News/2026/Ministry-of-Hajj-and-Umrah-Announces-the-Umrah-Season-Calendar-for-1448-AH
   Siasat, 19 Jul 2026: https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/
   Wego, Umrah rules 1448 AH: https://blog.wego.com/umrah-visa-new-rules/
   Dawn, 1 Nov 2025: https://www.dawn.com/news/1952496
@@ -92,6 +93,7 @@ approved: false
 [Sources:
 - Wego, "When is Ramadan 2027?": https://blog.wego.com/ramadan-2027/ (expected start 8 Feb 2027, Eid 9 Mar 2027 per Umm al-Qura)
 - Gulf News: https://gulfnews.com/amp/story/living-in-uae/ask-us/ramadan-2027-eid-al-fitr-eid-al-adha-uae-public-holidays-1.500712923 (Eid 9 or 10 March depending on moon)
+- Ministry of Hajj and Umrah (official), 17 May 2026: https://haj.gov.sa/en/Media-Center/Ministry-News/2026/Ministry-of-Hajj-and-Umrah-Announces-the-Umrah-Season-Calendar-for-1448-AH (official 1448 calendar: last visa issuance 1 Shawwal 1448 = 9 Mar 2027; last entry 15 Shawwal = 23 Mar 2027; last departure 30 Shawwal = 7 Apr 2027; re-checked 27 Nov 2026)
 - Siasat, 19 Jul 2026: https://www.siasat.com/saudi-arabia-sees-22-5-pc-surge-in-umrah-visa-arrivals-3509258/ (visa issuance ends 9 Mar 2027 = 1 Shawwal 1448; entry by 23 Mar; departure by 7 Apr 2027)
 - Wego, updated 26 Jun 2026: https://blog.wego.com/umrah-visa-new-rules/ (30-day entry window, 90-day stay, bookings before visa)
 - Dawn, 1 Nov 2025: https://www.dawn.com/news/1952496 (visa cancelled if not used within 30 days)
